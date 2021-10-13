@@ -1,4 +1,7 @@
 # JWT_JS_DEMO_works_with_Webex
+
+Based off of https://github.com/msatyan/JWT_JS_Demo and modified to work with Webex Guest Issuer applications.
+
 Generated Webex JWT in pure Javascript using CryptoJS. 
 
 This will only generate the JWT, which you can copy of from the page and then issue a POST to https://webexapis.com/v1/jwt/login to exchange the JWT for the guest access token. 
