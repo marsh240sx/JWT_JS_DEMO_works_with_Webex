@@ -4,7 +4,7 @@ Based off of https://github.com/msatyan/JWT_JS_Demo and modified to work with We
 
 Generate Webex JWT in pure Javascript using CryptoJS. 
 
-This will only generate the JWT, which you can copy of from the page and then issue a POST to https://webexapis.com/v1/jwt/login to exchange the JWT for the guest access token. 
+This will only generate the JWT, which you can copy from the page and then issue a POST to https://webexapis.com/v1/jwt/login to exchange the JWT for the guest access token. 
 
 POST example using cURL: 
 ```
