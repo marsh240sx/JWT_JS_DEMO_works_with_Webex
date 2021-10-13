@@ -1,6 +1,6 @@
 # JWT_JS_DEMO_works_with_Webex
 
-Based off of https://github.com/msatyan/JWT_JS_Demo and modified to work with Webex Guest Issuer applications.
+Based off of https://github.com/msatyan/JWT_JS_Demo and modified to work with Webex [Guest Issuer](https://developer.webex.com/docs/guest-issuer) applications.
 
 Generated Webex JWT in pure Javascript using CryptoJS. 
 
